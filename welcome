@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>...</title>
+  <style>
+    body {
+      background-color: #000000;
+      color: #d4d4d4;
+      margin: 0;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      align-items: center;
+      font-family: "Courier New", Courier, monospace;
+      user-select: none;
+    }
+    .hook-phrase {
+      margin-top: 48px;
+      font-size: 14px;
+      letter-spacing: 3px;
+      color: #888888;
+      text-align: center;
+      padding: 0 20px;
+    }
+
+    .hat-container {
+      margin-bottom: 12vh;
+    }
+
+    svg {
+      width: 120px;
+      height: 120px;
+      fill: #ffffff;
+    }
+  </style>
+</head>
